@@ -5,6 +5,8 @@ Team Members:
 * [**Muhammad Ariq Budipraja**](https://github.com/ariqmuh) - muhammad.ariq15@gmail.com
 * [**Rendi Salim**](https://github.com/Lasrend) - rendisalim10@gmail.com
 
+# [Tableau Dashboard](https://public.tableau.com/app/profile/muhammad.ariq.budipraja11/viz/OlistCustomerSegmentation/OlistRFMDashboard)
+
 ## Table of Contents
 * [Project Description](#project-description)
     * [Background](#background)
